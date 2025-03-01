@@ -1,0 +1,48 @@
+.descripcion_container{
+    width: 100%;
+    background-image: linear-gradient(#669ABB,  #023049);
+}
+
+.descripcion_elements{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.descripcion_element{
+    width: 45%;
+    min-width: 300px;
+    justify-content: space-evenly;
+    align-item: center;
+}
+
+.descripcion_img_item{
+    width: 80%;
+}
+
+button{
+  background-color: #FFEDD4;
+  color: #023049;
+  margin-left:   25%;
+}
+
+.name{
+    color: #023049;
+    font-size: 4em;
+    margin: 0;
+    padding: 0;
+
+}
+
+h6{
+    color: black;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 1.2em;
+    color: black;
+    font-weight: 300;
+}

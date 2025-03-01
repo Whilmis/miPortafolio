@@ -1,0 +1,13 @@
+.conatiner-icons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 80px;
+    flex-wrap: wrap;
+  
+}
+
+.habilidades_icon{
+    width: 220px;
+    padding-button: 15px;
+}

@@ -1,0 +1,47 @@
+
+.contacto{
+    width: 100%;
+}
+.contacto_cards{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+
+.contacto_card{
+    background: #FFEDD4;
+    width: 25%;
+    padding: 20px;
+    margin: 10px;
+    min-width: 300px;
+    text-align: center;
+
+}
+
+.contacto-subtitle {
+    color: #023049;
+
+}
+
+
+
+.icons-media{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons-media a {
+    width: 40px;
+    text-align: center;
+}
+
+.contacto_card p{
+
+  padding: 14px;  
+}
+
+

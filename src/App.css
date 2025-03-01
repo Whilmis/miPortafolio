@@ -1,0 +1,19 @@
+#root {
+  max-width: 1800px;
+  width:100%
+  margin: 0 auto;
+
+
+}
+
+.container {
+  padding: 1rem;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+
