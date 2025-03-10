@@ -14,7 +14,7 @@ import './oferta.css'
         <div className="ofeta_card">
             <img className='oferta_img_item' src={code} alt="fondo vectorizado de distintas paginas con el nombre del whilmis creador del portafolio"  />
              <h4>Programación Web</h4>
-             <p>Desarrollo sitios y aplicaciones para plataformas Web. Te ayudo a construir tu proyecto de principio a fin: Frontend, Backend y Base de Datos.</p>
+             <p>Desarrollo sitios y aplicaciones para plataformas Web.Construyo  tu proyecto de principio a fin: Frontend, Backend y Base de Datos.</p>
         </div>
         <div className="ofeta_card">
         <img className='oferta_img_item' src={design} alt="fondo vectorizado de distintas paginas con el nombre del whilmis creador del portafolio"  />

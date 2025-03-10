@@ -11,11 +11,13 @@
 
 .descripcion_element{
     width: 45%;
-    min-width: 300px;
+    min-width: 600px;
     justify-content: space-evenly;
     align-item: center;
 }
-
+h2{
+    color: #FFEDD4;
+}
 .descripcion_img_item{
     width: 80%;
 }
@@ -35,7 +37,7 @@ button{
 }
 
 h6{
-    color: black;
+    color: #FFF;
     font-size: 2em;
     margin: 0;
     margin-bottom: 20px;

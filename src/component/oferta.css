@@ -1,12 +1,12 @@
  .oferta_container{
     background-image: linear-gradient(#023049, #669ABB);
+    color: #FFEDD4;
     width: 100%;
    
  }
  .subtitle{
     text-align: center;
     border-bottom: 3px solid #C0111F;
-    color: #FFEDD4;
     margin: 20px auto;
     width: 400px;
 }
@@ -24,18 +24,18 @@
 }
 
 .ofeta_card{
-    padding: 20px;
+    padding: 40px;
     margin: 6px;
     text-align: center;
     background: #023049;
-    width: 80%;
+    width: 25%;
+    height: 100%;
+    min-width: 300px;
 
 }
 
-h4{
-
+.ofeta_card> p{
     color: #FFEDD4;
-
 }
 
 .oferta_img_item{
